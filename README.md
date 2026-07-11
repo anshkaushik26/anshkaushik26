@@ -5,7 +5,7 @@
 <img src="./me 3.png" width="100%">
 
 </td>
-<td width="62%">
+<td width="72%">
 
 ```text
 https://github.com/anshkaushik26

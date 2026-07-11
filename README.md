@@ -1,8 +1,8 @@
 <table>
 <tr>
-<td width="48%">
+<td width="30%">
 
-<img src="./me 3.png" width="100%">
+<img src="./me 3.png" width="120%">
 
 </td>
 <td width="72%">

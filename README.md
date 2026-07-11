@@ -8,14 +8,14 @@
 <td width="62%">
 
 ```text
-ansh@github
+https://github.com/anshkaushik26
 ────────────────────────────────────────
 
 OS:             MAIT CST 2029
 Learning:       C++, DSA, Web Development
 Frontend:       React, Next.js, Tailwind
 Backend:        Node.js
-Editor:         VS Code
+Editor:         VS Code,Antigravity
 
 Projects:
 • Kavita Dental Clinic Website
@@ -23,7 +23,7 @@ Projects:
 • AgroSense
 
 Goals:
-• Software Internship
+• Software Job
 • Strong DSA Foundation
 • Build Production Projects
 

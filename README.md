@@ -9,6 +9,7 @@
 
 ```text
 https://github.com/anshkaushik26
+linkedin.com/in/ansh-kaushik
 ────────────────────────────────────────
 
 OS:             MAIT CST 2029

@@ -23,7 +23,6 @@ Projects:
 • AgroSense
 
 Goals:
-• Software Job
 • Strong DSA Foundation
 • Build Production Projects
 

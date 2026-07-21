@@ -14,7 +14,7 @@ linkedin.com/in/ansh-kaushik
 
 OS:             MAIT CST 2029
 Learning:       C++, DSA, Web Development
-Frontend:       React, Next.js, Tailwind
+Frontend:       React.js, Next.js, Tailwind CSS
 Backend:        Node.js
 Editor:         VS Code,Antigravity
 

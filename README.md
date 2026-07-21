@@ -27,7 +27,7 @@ Goals:
 • Strong DSA Foundation
 • Build Production Projects
 
-Location:       New Delhi, India
+Location: New Delhi, India
 ```
 
 </td>

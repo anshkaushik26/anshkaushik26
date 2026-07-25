@@ -10,6 +10,7 @@
 ```text
 https://github.com/anshkaushik26
 linkedin.com/in/ansh-kaushik
+currently working as an Full stack dev intern in Rivram.inc
 ────────────────────────────────────────
 
 OS:             MAIT CST 2029
@@ -17,8 +18,6 @@ Learning:       C++, DSA, Web Development,C
 Frontend:       React.js, Next.js, Tailwind CSS
 Backend:        Node.js
 Editor:         VS Code
-
-currently working as an  front end dev intern in Rivram.inc
 
 Projects:
 • Kavita Dental Clinic Website

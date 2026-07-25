@@ -13,10 +13,12 @@ linkedin.com/in/ansh-kaushik
 ────────────────────────────────────────
 
 OS:             MAIT CST 2029
-Learning:       C++, DSA, Web Development
+Learning:       C++, DSA, Web Development,C
 Frontend:       React.js, Next.js, Tailwind CSS
 Backend:        Node.js
-Editor:         VS Code,Antigravity
+Editor:         VS Code
+
+currently working as an  front end dev intern in Rivram.inc
 
 Projects:
 • Kavita Dental Clinic Website

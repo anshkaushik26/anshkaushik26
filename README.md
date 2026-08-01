@@ -18,7 +18,7 @@ Learning:       C++, DSA, Web Development,C
 Frontend:       React.js, Next.js, Tailwind CSS
 Backend:        Node.js
 Editor:         VS Code
-Tools:          Claude Code
+
 
 Projects:
 • Kavita Dental Clinic Website

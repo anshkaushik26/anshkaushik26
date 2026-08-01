@@ -1,0 +1,62 @@
+<svg width="580" height="450" viewBox="0 0 580 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      text { font-family: 'SFMono-Regular', Consolas, Menlo, monospace; font-size: 13px; }
+    </style>
+
+    <clipPath id="clip1"><rect x="18" y="15" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.1000;0.1375;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip2"><rect x="18" y="32" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.14375;0.17625;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip3"><rect x="18" y="49" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.1825;0.235;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip4"><rect x="18" y="66" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.24125;0.26625;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip5"><rect x="18" y="100" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.2725;0.3025;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip6"><rect x="18" y="117" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.30875;0.34625;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip7"><rect x="18" y="134" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.3525;0.3925;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip8"><rect x="18" y="151" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.39875;0.42125;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip9"><rect x="18" y="168" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.4275;0.45;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip10"><rect x="18" y="219" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.48125;0.49625;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip11"><rect x="18" y="236" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.5025;0.5325;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip12"><rect x="18" y="253" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.53875;0.55375;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip13"><rect x="18" y="270" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.56;0.575;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip14"><rect x="18" y="304" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.59375;0.60625;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip15"><rect x="18" y="321" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.6125;0.635;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip16"><rect x="18" y="338" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.64125;0.66625;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip17"><rect x="18" y="372" width="0" height="20"><animate attributeName="width" values="0;0;540;540" keyTimes="0;0.685;0.71;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <rect x="0" y="0" width="580" height="450" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="0" y="0" width="580" height="34" rx="10" fill="#161b22"/>
+  <rect x="0" y="24" width="580" height="10" fill="#161b22"/>
+  <circle cx="20" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="17" r="6" fill="#27c93f"/>
+  <text x="290" y="21" text-anchor="middle" fill="#8b949e">zsh — anshkaushik26</text>
+
+  <g clip-path="url(#clip1)"><text x="20" y="30" fill="#58a6ff">https://github.com/anshkaushik26</text></g>
+  <g clip-path="url(#clip2)"><text x="20" y="47" fill="#58a6ff">linkedin.com/in/ansh-kaushik</text></g>
+  <g clip-path="url(#clip3)"><text x="20" y="64" fill="#c9d1d9">currently working as an Full stack dev intern in Rivram.inc</text></g>
+  <g clip-path="url(#clip4)"><text x="20" y="81" fill="#6e7681">────────────────────────────────────────</text></g>
+
+  <g clip-path="url(#clip5)"><text x="20" y="115" fill="#7ee787">OS:             MAIT CST 2029</text></g>
+  <g clip-path="url(#clip6)"><text x="20" y="132" fill="#7ee787">Learning:       C++, DSA, Web Development,C</text></g>
+  <g clip-path="url(#clip7)"><text x="20" y="149" fill="#7ee787">Frontend:       React.js, Next.js, Tailwind CSS</text></g>
+  <g clip-path="url(#clip8)"><text x="20" y="166" fill="#7ee787">Backend:        Node.js</text></g>
+  <g clip-path="url(#clip9)"><text x="20" y="183" fill="#7ee787">Editor:         VS Code</text></g>
+
+  <g clip-path="url(#clip10)"><text x="20" y="234" fill="#f0883e" font-weight="bold">Projects:</text></g>
+  <g clip-path="url(#clip11)"><text x="20" y="251" fill="#c9d1d9">• Kavita Dental Clinic Website</text></g>
+  <g clip-path="url(#clip12)"><text x="20" y="268" fill="#c9d1d9">• Sakhi AI</text></g>
+  <g clip-path="url(#clip13)"><text x="20" y="285" fill="#c9d1d9">• AgroSense</text></g>
+
+  <g clip-path="url(#clip14)"><text x="20" y="319" fill="#f0883e" font-weight="bold">Goals:</text></g>
+  <g clip-path="url(#clip15)"><text x="20" y="336" fill="#c9d1d9">• Strong DSA Foundation</text></g>
+  <g clip-path="url(#clip16)"><text x="20" y="353" fill="#c9d1d9">• Build Production Projects</text></g>
+
+  <g clip-path="url(#clip17)"><text x="20" y="387" fill="#c9d1d9">Location: New Delhi, India</text></g>
+
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.7099;0.71;1" dur="8s" repeatCount="indefinite"/>
+    <rect x="233" y="374" width="8" height="15" fill="#c9d1d9">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.4;0.9;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

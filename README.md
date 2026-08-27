@@ -12,7 +12,3 @@
 </td>
 </tr>
 </table>
-
-## Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkaushik26&theme=react-dark" width="100%">

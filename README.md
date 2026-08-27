@@ -12,3 +12,7 @@
 </td>
 </tr>
 </table>
+
+## 📈 Contribution Graph
+
+<img src="./contribution-graph.svg" width="100%">

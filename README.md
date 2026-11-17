@@ -1,11 +1,11 @@
 <table>
 <tr>
-<td width="30%">
+<td width="40%" valign="middle">
 
-<img src="./avatar-reveal.svg" width="100%">
+<img src="./portrait-banner.svg" width="100%">
 
 </td>
-<td width="72%">
+<td width="60%" valign="middle">
 
 <img src="./terminal-typing.svg" width="100%">
 

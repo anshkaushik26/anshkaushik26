@@ -2,7 +2,7 @@
 <tr>
 <td width="44%" valign="middle">
 
-<img src="./portrait-banner.svg" width="100%">
+<img src="./portrait-pixels.svg" width="100%">
 
 </td>
 <td width="56%" valign="middle">
